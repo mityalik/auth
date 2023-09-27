@@ -1,0 +1,5 @@
+Oleg,12,OlegDmitry,963600
+Sasha,12,SashaOleg,963600zx
+Masha,19,MashaOleg,123456
+Anatoly,18,AnatolyBolyubash,12345
+Adilet,21,AdiletBbbb,12345
